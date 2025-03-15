@@ -1,15 +1,3 @@
-# I declare that my work contains no examples of misconduct, such as plagiarism, or collusion. 
-# Any code taken from other sources is referenced within my code solution.
-# Student ID: w2053484
-#IIT No: 20232061
-# Date: 01/12/2023
-
-'''
-References
-1.https://www.w3schools.com/python/python_intro.asp
-2.Lecture materials and Tutorial materials
-'''
-
 from graphics import*
 
 outer_loop_flag=True
